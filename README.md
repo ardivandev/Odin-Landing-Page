@@ -3,6 +3,7 @@
 ## Assets
 
 1. Unplash
+2. Heroicons
 
 ## Technology
 
